@@ -9,7 +9,7 @@ db = mysql.connector.connect(
     user = 'root',
     password = '',
     host = 'localhost',
-    database = 'skabuy'
+    database = 'pandore'
 )
 
 sql_product = 'SELECT * FROM `product`'

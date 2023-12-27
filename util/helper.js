@@ -220,7 +220,7 @@ module.exports.sendPinTemplate = (pin) => {
                       </tr>
                       <tr>
                           <td bgcolor="#ffffff" align="left" style="padding: 0px 30px 40px 30px; border-radius: 0px 0px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                              <p style="margin: 0;">Cheers,<br>SKA Buy Team</p>
+                              <p style="margin: 0;">Cheers,<br>Pandore Team</p>
                           </td>
                       </tr>
                   </table>
@@ -487,7 +487,7 @@ module.exports.orderSuccessfulTemplate = (
                         <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:300px;">
                             <tr>
                                 <td align="left" valign="top" style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 36px; font-weight: 800; line-height: 48px;" class="mobile-center">
-                                    <h1 style="font-size: 36px; font-weight: 800; margin: 0; color: #ffffff;">SKA Buy</h1>
+                                    <h1 style="font-size: 36px; font-weight: 800; margin: 0; color: #ffffff;">Pandore</h1>
                                 </td>
                             </tr>
                         </table>

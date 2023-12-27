@@ -8,7 +8,7 @@ const emailTransporter = nodemailer.createTransport({
 });
 module.exports.sendMail = (recipient, subject, content) => {
   var mailOptions = {
-    from: "HLEecommere@gmail.com",
+    from: "pandore.online@gmail.com",
     to: recipient,
     subject: subject,
     html: content,
